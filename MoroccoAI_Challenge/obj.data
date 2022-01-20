@@ -1,0 +1,5 @@
+classes = 17 
+train = /content/drive/MyDrive/OCR/Dataset/train
+valid = /content/drive/MyDrive/OCR/data/validation
+names = /content/drive/MyDrive/OCR/obj.names
+backup = /content/drive/MyDrive/OCR/backup
